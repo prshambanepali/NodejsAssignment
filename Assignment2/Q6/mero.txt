@@ -1,0 +1,3 @@
+This is first newline inserted
+This is first newline inserted
+This is newline inserted
