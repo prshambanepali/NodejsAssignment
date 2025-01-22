@@ -1,1 +1,1 @@
-Prasham Banepali
+Write a Node.js script to read the contents of a file and print them to the console. If the file does not exist, create one and write some default text into it.

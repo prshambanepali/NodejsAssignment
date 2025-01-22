@@ -7,7 +7,7 @@ try{
 }
 catch(error)
 {
-    console.log(error)
+    await fs.writeFile(path,'new file new text')
 }
 }
 readFile("Q5.txt")
